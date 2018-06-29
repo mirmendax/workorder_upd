@@ -1,0 +1,6 @@
+E:\1\project\WorkUpdatev2.0\FileUpd\bin\Release\FileUpd.dll
+E:\1\project\WorkUpdatev2.0\FileUpd\bin\Release\FileUpd.pdb
+E:\1\project\WorkUpdatev2.0\FileUpd\obj\Release\FileUpd.csproj.CoreCompileInputs.cache
+E:\1\project\WorkUpdatev2.0\FileUpd\obj\Release\FileUpd.dll
+E:\1\project\WorkUpdatev2.0\FileUpd\obj\Release\FileUpd.pdb
+E:\1\project\WorkUpdatev2.0\FileUpd\obj\Release\FileUpd.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+I:\WorkUpdate\WorkUpdate\bin\Debug\WorkUpdate.exe.config
+I:\WorkUpdate\WorkUpdate\bin\Debug\WorkUpdate.exe
+I:\WorkUpdate\WorkUpdate\bin\Debug\WorkUpdate.pdb
+I:\WorkUpdate\WorkUpdate\obj\Debug\WorkUpdate.Form1.resources
+I:\WorkUpdate\WorkUpdate\obj\Debug\WorkUpdate.Properties.Resources.resources
+I:\WorkUpdate\WorkUpdate\obj\Debug\WorkUpdate.csproj.GenerateResource.Cache
+I:\WorkUpdate\WorkUpdate\obj\Debug\WorkUpdate.exe
+I:\WorkUpdate\WorkUpdate\obj\Debug\WorkUpdate.pdb
+I:\WorkUpdate\WorkUpdate\obj\Debug\WorkUpdate.csprojResolveAssemblyReference.cache

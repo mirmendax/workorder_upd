@@ -1,0 +1,12 @@
+E:\1\project\WorkUpdate\WorkUpdate\bin\Release\WorkUpdate.exe.config
+E:\1\project\WorkUpdate\WorkUpdate\bin\Release\WorkUpdate.exe
+E:\1\project\WorkUpdate\WorkUpdate\bin\Release\WorkUpdate.pdb
+E:\1\project\WorkUpdate\WorkUpdate\obj\Release\LaunchUpdate.csprojResolveAssemblyReference.cache
+E:\1\project\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.Form1.resources
+E:\1\project\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.Properties.Resources.resources
+E:\1\project\WorkUpdate\WorkUpdate\obj\Release\LaunchUpdate.csproj.GenerateResource.Cache
+E:\1\project\WorkUpdate\WorkUpdate\obj\Release\LaunchUpdate.csproj.CoreCompileInputs.cache
+E:\1\project\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.exe
+E:\1\project\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.pdb
+E:\1\project\WorkUpdate\WorkUpdate\bin\Release\FileUpd.dll
+E:\1\project\WorkUpdate\WorkUpdate\bin\Release\FileUpd.pdb

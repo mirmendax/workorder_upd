@@ -1,0 +1,41 @@
+I:\WorkUpdate\WorkUpdate\bin\Release\WorkUpdate.exe.config
+I:\WorkUpdate\WorkUpdate\bin\Release\WorkUpdate.exe
+I:\WorkUpdate\WorkUpdate\bin\Release\WorkUpdate.pdb
+I:\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.Form1.resources
+I:\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.Properties.Resources.resources
+I:\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.csproj.GenerateResource.Cache
+I:\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.exe
+I:\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.pdb
+I:\WorkUpdate\WorkUpdate\obj\Release\WorkUpdate.csprojResolveAssemblyReference.cache
+E:\WorkUpdate - копия\WorkUpdate\bin\Release\WorkUpdate.exe.config
+E:\WorkUpdate - копия\WorkUpdate\bin\Release\WorkUpdate.exe
+E:\WorkUpdate - копия\WorkUpdate\bin\Release\WorkUpdate.pdb
+E:\WorkUpdate - копия\WorkUpdate\obj\Release\WorkUpdate.Form1.resources
+E:\WorkUpdate - копия\WorkUpdate\obj\Release\WorkUpdate.Properties.Resources.resources
+E:\WorkUpdate - копия\WorkUpdate\obj\Release\WorkUpdate.csproj.GenerateResource.Cache
+E:\WorkUpdate - копия\WorkUpdate\obj\Release\WorkUpdate.exe
+E:\WorkUpdate - копия\WorkUpdate\obj\Release\WorkUpdate.pdb
+E:\WorkUpdatev2.0\WorkUpdate\bin\Release\WorkUpdate.exe.config
+E:\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.exe
+E:\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.pdb
+E:\WorkUpdatev2.0\WorkUpdate\bin\Release\WorkUpdate.exe
+E:\WorkUpdatev2.0\WorkUpdate\bin\Release\WorkUpdate.pdb
+E:\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.csprojResolveAssemblyReference.cache
+E:\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.Form1.resources
+E:\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.Properties.Resources.resources
+E:\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.csproj.GenerateResource.Cache
+F:\F8Gb\WorkUpdatev2.0\WorkUpdate\bin\Release\WorkUpdate.exe.config
+F:\F8Gb\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.exe
+F:\F8Gb\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.pdb
+E:\1\project\WorkUpdatev2.0\WorkUpdate\bin\Release\WorkUpdate.exe.config
+E:\1\project\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.exe
+E:\1\project\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.pdb
+E:\1\project\WorkUpdatev2.0\WorkUpdate\bin\Release\WorkUpdate.exe
+E:\1\project\WorkUpdatev2.0\WorkUpdate\bin\Release\WorkUpdate.pdb
+E:\1\project\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.csprojResolveAssemblyReference.cache
+E:\1\project\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.Form1.resources
+E:\1\project\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.Properties.Resources.resources
+E:\1\project\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.csproj.GenerateResource.Cache
+E:\1\project\WorkUpdatev2.0\WorkUpdate\obj\Release\WorkUpdate.csproj.CoreCompileInputs.cache
+E:\1\project\WorkUpdatev2.0\WorkUpdate\bin\Release\FileUpd.dll
+E:\1\project\WorkUpdatev2.0\WorkUpdate\bin\Release\FileUpd.pdb
